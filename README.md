@@ -33,4 +33,4 @@ It is time to play in my Minecraft sever.
 # This website is not finished.
 # read all of the file at https://www.luogu.com.cn/paste/9exz32dq.
 
-New website: [Click me](https://Cmjs.wiki.github.io/)
+New website: [[Click me](https://chenyuchen-1.github.io/Cmjs.wiki.github.io/index.html)]
