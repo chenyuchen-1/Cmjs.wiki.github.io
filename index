@@ -1,0 +1,15 @@
+<html>
+  <head><title>INDEX</title></head>
+  <body>
+    <h1>
+      About this sever
+    </h1>
+    <br/>
+    <h3>
+      <p>Sever ip : </p>
+      <br/>
+      <p>Sever statues : <p style="color:red;"> close </p></p><br/>
+    </h3>
+    <a href='./sever.html'>How to play on Minecraft Java Edition</a>
+  </body>
+</html>
